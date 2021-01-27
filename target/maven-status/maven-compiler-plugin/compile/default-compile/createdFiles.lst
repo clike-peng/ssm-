@@ -1,0 +1,7 @@
+com\faceTest\dao\PersonDao.class
+com\faceTest\service\PersonService.class
+com\faceTest\dao\impl\PersonDaoImpl.class
+com\faceTest\web\servlet\PersonServlet.class
+com\faceTest\service\impl\PersonServiceImpl.class
+com\faceTest\utils\JDBCUtils.class
+com\faceTest\domain\Person.class
